@@ -13,6 +13,7 @@ public class Circle {
     private int x;
     private int y;
     private int z;
+    private int b;
 
     public int getX() {
         return x;
